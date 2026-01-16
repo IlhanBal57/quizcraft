@@ -163,5 +163,16 @@ npm start
 | DELETE | `/api/admin/users/:id` | Delete user |
 | PUT | `/api/admin/users/:id` | Update user |
 
+WEB
+
+<img width="1921" height="941" alt="image" src="https://github.com/user-attachments/assets/6752fca1-2e54-4221-9555-501dbe64a43f" />
 <img width="1906" height="948" alt="image" src="https://github.com/user-attachments/assets/9dd0ef27-958f-4769-8f57-044c71c3f456" />
+<img width="1921" height="941" alt="image" src="https://github.com/user-attachments/assets/c6055292-1cc5-4d51-943b-56fd61cd62e2" />
+<img width="1905" height="940" alt="image" src="https://github.com/user-attachments/assets/21580a2f-6b41-47c3-a9ac-a2a0d2ded4f3" />
+
+MOBILE
+
+<img width="412" height="863" alt="image" src="https://github.com/user-attachments/assets/5e29e3e7-8905-4df5-92c9-3dabb1c38ec2" />
+
+
 
