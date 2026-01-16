@@ -163,6 +163,5 @@ npm start
 | DELETE | `/api/admin/users/:id` | Delete user |
 | PUT | `/api/admin/users/:id` | Update user |
 
-## 📝 License
+<img width="1906" height="948" alt="image" src="https://github.com/user-attachments/assets/9dd0ef27-958f-4769-8f57-044c71c3f456" />
 
-This project is developed for educational purposes.
